@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 💪 Strong technical side: Python, Spark Computing.
 - 🌱 I’m currently learning about How to leverage cloud services to solve business's problem;
 - 💬 Ask me about Python, Spark, Computer Networking.
-- If I'm not coding away, I might go swimming, running, yoga or playing badminton. Healthy body, healthy mind 🧠
+- If I'm not coding away, I might go swimming 🏊‍♂️, running 🏃‍♂️, yoga 🧘‍♂️ or playing badminton 🏸. Healthy body, healthy mind 🧠
