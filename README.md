@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working as (Big) Data Engineer 🧑‍💻 at FPT Software.
-- 💪 Strong technical side: Python, Spark Computing.
-- 🌱 I’m currently learning about How to leverage cloud services to solve business's problem;
-- 💬 Ask me about Python, Spark, Computer Networking.
+- 💪 Strong technical side: Python, Spark Computing, Regular Expression, SQL, ELT/ETL, Palantir Foundry.
+- 🌱 I’m currently learning about How to leverage cloud services to solve business's problem & learn to swim all 4 kinds of strokes 🏊
+- 💬 Ask me about Python, Spark, Computer Networking, Regular Expression, Self-learn
 - If I'm not coding away, I might go swimming 🏊‍♂️, running 🏃‍♂️, yoga 🧘‍♂️ or playing badminton 🏸. Healthy body, healthy mind 🧠
+- 📧 Contact me via [ntnhan171299@gmail.com](mailto:ntnhan171299@gmail.com).
